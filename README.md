@@ -1,4 +1,4 @@
-# DSA
+# Data Structures and Algorithms
 
 ## Sorting Algorithms Collection
 
