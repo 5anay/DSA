@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-## Sorting Algorithms Collection
+## Sorting Algorithms
 
 ### Selection Sort 
 A straightforward algorithm that repeatedly selects the minimum element from the unsorted segment and moves it to the beginning.
