@@ -5,6 +5,7 @@
 
 
 # Data Structures and Algorithms 
+new_arr = []
 arr = [2,6,7,5,4,8,3,9,1,0]
 
 
